@@ -50,7 +50,7 @@ Version 0.7 of Eskapade (February 2018) contains several major updates:
 
   - ``eskapade_bootstrap``, for creating a new Eskapade analysis project. See this new `tutorial <tutorials.html#tutorial-4-creating-a-new-analysis-project>`_ for all the details.
   - ``eskapade_run``, for running the Eskapade macros.
-  - ``eskapade_trail``, for running the Eskapade unit and integration tests.
+  - ``eskapade_trial``, for running the Eskapade unit and integration tests.
   - ``eskapade_generate_link``, ``eskapade_generate_macro``, ``eskapade_generate_notebook``, for generating a new link, macro, or Jupyter notebook respectively.
 
 Version 0.6
